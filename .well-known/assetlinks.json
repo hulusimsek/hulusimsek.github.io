@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hulusimsek.smartcard",
+      "sha256_cert_fingerprints": [
+        "49:0D:B4:BD:40:44:C6:60:AB:4F:AA:17:DE:B1:9E:16:8E:30:88:92:15:5D:08:F8:87:C5:5C:1A:3A:63:28:3A"
+      ]
+    }
+  }
+]
